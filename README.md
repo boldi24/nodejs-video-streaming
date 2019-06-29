@@ -1,1 +1,1 @@
-This article contains the code for my NodeJS video streaming article which you can find here: https://idlob.dev/blog/video-streaming-nodejs/
+This repo contains the code for my NodeJS video streaming article which you can find here: https://idlob.dev/blog/video-streaming-nodejs/
